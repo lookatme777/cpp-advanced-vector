@@ -7,8 +7,7 @@
 #include <utility>
 
 template <typename T>
-class RawMemory
-{
+class RawMemory{
 public:
 
 	RawMemory() = default;
